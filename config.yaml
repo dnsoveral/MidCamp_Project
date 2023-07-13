@@ -4,10 +4,14 @@ data:
     bakery_data: '../data/clean_data/bakery_data.csv'
     tickets_total: '../data/clean_data/tickets_total.csv'
     bakery_price: '../data/clean_data/bakery_price_table.csv'
+    mba_rules: '../data/clean_data/mba_rules.csv'
+    mba_frequent_itemsets: '../data/clean_data/mba_frequent_itemsets.csv'
 
 functions:
   source_path: '../notebooks/clean_format_functions.py'
   destination_path: '../src/clean_format_functions.py'
+  source_path_a: '../notebooks/mba_function.py'
+  destination_path_a: '../src/mba_function.py'
 
 analysis:
   values_to_drop: ['coupe', 'traiteur', 'the', 'plat_6.50e', 'plat_7.60e', 'plat_7.00',

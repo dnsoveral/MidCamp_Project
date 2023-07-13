@@ -1,0 +1,76 @@
+,support,itemsets,length
+0,0.11273964681286419,frozenset({'baguette'}),1
+1,0.011061192414335069,frozenset({'baguette_graine'}),1
+2,0.1111827765668787,frozenset({'banette'}),1
+3,0.020787924617825422,frozenset({'banettine'}),1
+4,0.010772059368652047,frozenset({'boisson_33cl'}),1
+5,0.019816734131043994,frozenset({'boule_200g'}),1
+6,0.030092077754548287,frozenset({'boule_400g'}),1
+7,0.012217724597067154,frozenset({'brioche'}),1
+8,0.010527408329997183,frozenset({'cafe_ou_eau'}),1
+9,0.02877985854721765,frozenset({'campagne'}),1
+10,0.03649748676660291,frozenset({'cereal_baguette'}),1
+11,0.010646027015405601,frozenset({'chausson_aux_pommes'}),1
+12,0.02314547099031775,frozenset({'complet'}),1
+13,0.01467164865145382,frozenset({'cookie'}),1
+14,0.08441943567160418,frozenset({'croissant'}),1
+15,0.013307533769257002,frozenset({'croissant_amandes'}),1
+16,0.008473822338863929,frozenset({'demi_baguette'}),1
+17,0.014753198997672108,frozenset({'eclair'}),1
+18,0.019446050739142684,frozenset({'ficelle'}),1
+19,0.007510045519920526,frozenset({'financier_x5'}),1
+20,0.0060940349628575245,frozenset({'flan'}),1
+21,0.004188722328484795,frozenset({'flan_abricot'}),1
+22,0.03050724315347775,frozenset({'formule_sandwich'}),1
+23,0.006123689634209629,frozenset({'gd_kouign_amann'}),1
+24,0.010149311270257847,frozenset({'grand_far_breton'}),1
+25,0.009823109885384694,frozenset({'kouign_amann'}),1
+26,0.005649214892575953,frozenset({'milles_feuilles'}),1
+27,0.022841510608958678,frozenset({'moisson'}),1
+28,0.014137864567115936,frozenset({'pain'}),1
+29,0.0776878252746764,frozenset({'pain_au_chocolat'}),1
+30,0.01467164865145382,frozenset({'pain_aux_raisins'}),1
+31,0.02012810818024109,frozenset({'pain_banette'}),1
+32,0.010927746393250597,frozenset({'pain_choco_amandes'}),1
+33,0.006716783061251724,frozenset({'paris_brest'}),1
+34,0.009615527185919962,frozenset({'quim_bread'}),1
+35,0.011009296739468885,frozenset({'sand_jb_emmental'}),1
+36,0.01618403689041116,frozenset({'sandwich_complet'}),1
+37,0.009771214210518513,frozenset({'seigle'}),1
+38,0.038187803033672876,frozenset({'special_bread'}),1
+39,0.020854647628367657,frozenset({'tartelette'}),1
+40,0.49816882404400753,frozenset({'traditional_baguette'}),1
+41,0.023049093308423408,frozenset({'vik_bread'}),1
+42,0.006583337040167252,"frozenset({'baguette', 'banette'})",2
+43,0.010898091721898493,"frozenset({'baguette', 'croissant'})",2
+44,0.00885933306644129,"frozenset({'pain_au_chocolat', 'baguette'})",2
+45,0.015042332043355129,"frozenset({'baguette', 'traditional_baguette'})",2
+46,0.007087466453153033,"frozenset({'croissant', 'banette'})",2
+47,0.005404563853921089,"frozenset({'pain_au_chocolat', 'banette'})",2
+48,0.008829678395089186,"frozenset({'traditional_baguette', 'banette'})",2
+49,0.005159912815266225,"frozenset({'traditional_baguette', 'banettine'})",2
+50,0.004181308660646768,"frozenset({'traditional_baguette', 'boule_200g'})",2
+51,0.00713194846018119,"frozenset({'boule_400g', 'traditional_baguette'})",2
+52,0.006449891019082781,"frozenset({'traditional_baguette', 'brioche'})",2
+53,0.006909538425040405,"frozenset({'traditional_baguette', 'campagne'})",2
+54,0.004396305027949528,"frozenset({'traditional_baguette', 'cereal_baguette'})",2
+55,0.008466408671025903,"frozenset({'traditional_baguette', 'complet'})",2
+56,0.00522663582580846,"frozenset({'traditional_baguette', 'cookie'})",2
+57,0.03979656895452456,"frozenset({'pain_au_chocolat', 'croissant'})",2
+58,0.005612146553385822,"frozenset({'croissant', 'pain_aux_raisins'})",2
+59,0.03632697240632831,"frozenset({'croissant', 'traditional_baguette'})",2
+60,0.004863366101745177,"frozenset({'croissant_amandes', 'traditional_baguette'})",2
+61,0.006368340672864493,"frozenset({'traditional_baguette', 'eclair'})",2
+62,0.005159912815266225,"frozenset({'ficelle', 'traditional_baguette'})",2
+63,0.005582491882033717,"frozenset({'traditional_baguette', 'grand_far_breton'})",2
+64,0.004344409353083344,"frozenset({'kouign_amann', 'traditional_baguette'})",2
+65,0.008555372685082217,"frozenset({'traditional_baguette', 'moisson'})",2
+66,0.00584938392420266,"frozenset({'pain_au_chocolat', 'pain_aux_raisins'})",2
+67,0.031048440905653663,"frozenset({'pain_au_chocolat', 'traditional_baguette'})",2
+68,0.005293358836350696,"frozenset({'traditional_baguette', 'pain_aux_raisins'})",2
+69,0.00487819343742123,"frozenset({'traditional_baguette', 'seigle'})",2
+70,0.00991207389944101,"frozenset({'traditional_baguette', 'special_bread'})",2
+71,0.008362617321293536,"frozenset({'traditional_baguette', 'tartelette'})",2
+72,0.011832213869489792,"frozenset({'traditional_baguette', 'vik_bread'})",2
+73,0.005241463161484512,"frozenset({'pain_au_chocolat', 'baguette', 'croissant'})",3
+74,0.01675488931393918,"frozenset({'pain_au_chocolat', 'traditional_baguette', 'croissant'})",3

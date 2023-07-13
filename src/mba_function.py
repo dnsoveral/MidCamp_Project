@@ -1,8 +1,4 @@
 
-import pandas as pd
-from mlxtend.frequent_patterns import apriori
-from mlxtend.frequent_patterns import association_rules
-
 def market_basket_analysis(df: pd.DataFrame, transactions: str, items: str, min_support=0.1, metric="lift", min_threshold=1) -> tuple:
     """
     Apply Market Basket Analysis using the Apriori algorithm to a dataframe with transactions and items sold.
