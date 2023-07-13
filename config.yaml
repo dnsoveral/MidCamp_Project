@@ -1,0 +1,15 @@
+data:
+  input: '../data/raw_data/french_bakery_sales.csv'
+  output:
+    bakery_data: '../data/clean_data/bakery_data.csv'
+    tickets_total: '../data/clean_data/tickets_total.csv'
+    bakery_price: '../data/clean_data/bakery_price_table.csv'
+
+functions:
+  source_path: '../notebooks/clean_format_functions.py'
+  destination_path: '../src/clean_format_functions.py'
+
+analysis:
+  values_to_drop: ['coupe', 'traiteur', 'the', 'plat_6.50e', 'plat_7.60e', 'plat_7.00',
+       'plat', 'plat_8.30e', 'formule_pate', 'pt_plateau_sale', 'reduction_sucrees_12', '.', 'platprepare6,50', 'platprepare5,50', 'platprepare7,00',
+       'formule_plat_prepare', 'platprepare6,00', 'article_295', 'reduction_sucrees_24', 'gd_plateau_sale']
